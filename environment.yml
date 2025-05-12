@@ -41,7 +41,7 @@ dependencies:
   - ffmpeg-python
   - freetype-py
   - gdown
-  - git+https://github.com/suddhu/tacto.git@master
+  - git+https://github.com/Fzaero/tacto.git@master
   - git+https://github.com/u1234x1234/pynanoflann.git@0.0.9
   - gitpython
   - gputil
